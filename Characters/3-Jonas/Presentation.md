@@ -19,7 +19,7 @@ They can love anybody and can wear any suit or dress for events.
 
 ## Personnality
 
-Jonas is confident, the purple category.
+Jonas is confident, the blue category.
 
 > Insert Jonas's personnality
 
