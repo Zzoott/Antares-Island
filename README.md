@@ -1,6 +1,6 @@
 # Hi everybody !
 
-Here is my personnal logbook for my adventures on Tomodachi Life : Living the dream
+Here is my personnal logbook for my adventures on **Tomodachi Life : Living the dream**
 
 > ! Every Mii is a fictionnal character I imagined using the Mii editor, each look-a-like person IRL would be really funny but not my goal !
 
