@@ -33,13 +33,13 @@ In the "confident" category, Jonas is considered as determined. They follow thei
 
 > Doesn't have yet
 
-## Word/Physical habits
+## Word/Physical quirks
 
 - Preciously walks.
 
 > Insert their walk
 
-> No Word habits yet
+> No Word quirks yet
 
 ## Relationships
 

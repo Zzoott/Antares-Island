@@ -35,9 +35,9 @@ In the "energic" category, Moha is considered as friendly. He likes having fun a
 
 > Doesn't have yet
 
-## Word/Physical habits
+## Word/Physical quirks
 
-> No Physical habits yet
+> No Physical quirks yet
 
 - He adds "oups" almost at the end of each sentence they say.
 

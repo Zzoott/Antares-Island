@@ -26,7 +26,7 @@ He was feeling alone so I created [Dorothée](../Characters/2-Dorothée/Presenta
 > Insert Dorothée's head
 >> Dorothée my second Mii
 
-When they arrived, the "Wishes Fountain" appeared and I upgraded to the second level. Then, I obtained the "Light habits".
+When they arrived, the "Wishes Fountain" appeared and I upgraded to the second level. Then, I obtained the "Light quirks".
 
 > Insert the screen of the obtained habits
 
@@ -53,9 +53,9 @@ So, I created my final Mii authorized for the demo version, [Jonas](../Character
 
 When they arrived, The clothes shop was created, I'll see it later.
 
-I gave them princess habits because they is the absolute Queen of the island to my eyes 
+I gave them princess quirks because they is the absolute Queen of the island to my eyes 
 
->Insert Jonas' habits
+>Insert Jonas' quirks
 >> Jonas being the Queen
 
 Dorothée was sleeping on the fountain, talking to them made me enter their dream. It was really weird, they was about to fall in the void, praying me to not push them. So, I pushed them and she fall from really high on the island. Fortunately, thay was attached like a bungee jump and did not die. They woke up and asked what happenned lol.

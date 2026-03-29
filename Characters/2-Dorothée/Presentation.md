@@ -33,10 +33,10 @@ In the "reserved" category, Dorothée is considered as patient. She put others f
 
 > Doesn't have yet
 
-## Word/Physical habits
+## Word/Physical quirks
 
-> No Physical habits yet
-> No Word habits yet
+> No Physical quirks yet
+> No Word quirks yet
 
 ## Relationships
 
