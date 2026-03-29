@@ -1,5 +1,7 @@
 # Day 1
  
+28/03/2026
+
 Okay so... just did the Demo version when I write this and here are all the things I saw and did
 
 > Oh ! I can't send images of the game into my phone or my computer. I guess I have to wait until the game comes out to publish here
