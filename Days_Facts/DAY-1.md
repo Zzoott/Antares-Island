@@ -14,14 +14,14 @@ My island is "Antares Island". It's a reference of a company making DAW plug-ins
 
 My Miis call me "Gros" wich is the litteral translation of "fat" in french but it's also an affective way to call friends in the familiar language. That's an equivalent of "bro" even if we use it too in french with the words "frère" and "frérot"
 
-I created [Moha](Characters/1-Moha/Presentation.md) first. Click [here to see their presentation](Characters/1-Moha/Presentation.md)
+I created [Moha](../Characters/1-Moha/Presentation.md) first. Click [here to see their presentation](../Characters/1-Moha/Presentation.md)
 
 > Insert Moha's Head
 >> Moha, my first Mii
 
 I was first surprised that even if he was alone on the Antares island, he became the journalist AND the grocer of the island. I mean, one job is enough but bro decided to have two important roles immediatly #wow
 
-He was feeling alone so I created [Dorothée](Characters/2-Dorothée/Presentation.md) to make sure he won't be bored
+He was feeling alone so I created [Dorothée](../Characters/2-Dorothée/Presentation.md) to make sure he won't be bored
 
 > Insert Dorothée's head
 >> Dorothée my second Mii
@@ -46,7 +46,7 @@ Moha then did their second BREAKING NEWS, (don't remember the first sorry), noti
 > Insert Moha doing a BREAKING NEWS
 >> Moha doing his first job
 
-So, I created my final Mii authorized for the demo version, [Jonas](Characters/3-Jonas/Presentation.md) !
+So, I created my final Mii authorized for the demo version, [Jonas](../Characters/3-Jonas/Presentation.md) !
 
 > Insert Jonas' head
 >> Jonas, my third Mii
