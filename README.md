@@ -22,4 +22,4 @@ Happy reading to you ! Hope you enjoy the logbook !!!
 - It's so bad that in french we don't have "iel" which is the non-binary pronoun but I imagine and hope the non presence isn't due to translators lazyness but nintendo or technical limitations. I hope...
 - I HATE that the demo don't let Miis out of their houses  when you finish it (it's considered finish when you give a Mii clothes).
 - The artistic direction is lovely and it runs well on the nintendo switch first owner of the name.
-- UI/UX is genious, execpt for the touch screen we can't use where we woulds like in houses to take and move Miis in them.
+- UI/UX is genious, except for the touch screen we can't use where we woulds like in houses to take and move Miis in them.
