@@ -15,7 +15,7 @@ They is the tallest for the moment and they is really tall, they is around 1m95.
 
 They can love anybody and can wear any suit or dress for events.
 
-> If I was in an english or japanese game I could give them a neutral pronoun but I'm french and we can't so I gave them the male pronoun.
+> If I was in an english or japanese game I could give them a neutral pronoun but I'm french and we can't so I gave them the male pronoun, but herethey will be congugate with the neutral
 
 ## Personnality
 
