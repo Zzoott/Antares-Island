@@ -6,7 +6,15 @@ Each directory is for each Mii of the Antares Island. The numbers before their n
 
 To be aware of relationships go to the relationships section of each doc.
 
-If you wanna make art from my characters, do whatever you want, just id
+If you wanna make art from my characters, do whatever you want, just id me on :
+
+1. Twitter : VerbeIrregulier
+
+and / or
+
+2. Instagram : verbeirregulier_
+
+I'l surely repost you !!
 
 ---
 
