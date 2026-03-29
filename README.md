@@ -12,7 +12,7 @@ Happy reading to you ! Hope you enjoy the logbook !!!
 
 ---
 
-> (Yes my game is in french beacause i AM french, so don't hate me if I write a bad english especially for neutral pronouns conjugation because I didn't train my english on this dut to schools in france which aren't very leftists in their school programs :/)
+> (Yes my game is in french beacause i AM french, so don't hate me if I write a bad english especially for neutral pronouns conjugation because I didn't train my english on this due to schools in france which aren't very leftists in their school programs :/)
 
 ---
 
