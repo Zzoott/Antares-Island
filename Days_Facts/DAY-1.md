@@ -11,7 +11,7 @@ My island is "Antares Island". It's a reference of a company making DAW plug-ins
 
 My Miis call me "Gros" wich is the litteral translation of "fat" in french but it's also an affective way to call friends in the familiar language. That's an equivalent of "bro" even if we use it too in french with the words "frère" and "frérot"
 
-I created [Moha](../Characters/1-Moha/Presentation.md) first. Click [here to see their presentation](../Characters/1-Moha/Presentation.md)
+I created [Moha](../Characters/1-Moha/Presentation.md) first. Click [here to see his presentation](../Characters/1-Moha/Presentation.md)
 
 ![Moha's Face](../Ressources/Moha-Head.jpg)
 >> Moha, my first Mii
@@ -56,13 +56,13 @@ Dorothée was sleeping on the fountain, talking to her made me enter her dreams.
 
 Jonas was running and fell. I took Moha to help them, Jonas thanked them and they all two came back home.
 
-Moha's problem was that he "wasn't cool enough for the island" and he wanted some clothes. I went in the clothes store AND COOKED A MASTERPIECE FOR HIM. I also took headphones for Dorothée because their vibe was matching the energy of the headphones
+Moha's problem was that he "wasn't cool enough for the island" and he wanted some clothes. I went in the clothes store AND COOKED A MASTERPIECE FOR HIM. I also took headphones for Dorothée because her vibe was matching the energy of the headphones
 
 ![Moha's Outfit](../Ressources/Moha-Outfit.jpg)
 
 When Moha obtained his outfit and put it on him, he immediatly claimed the demo finished and the Miis would stay in their houses until I buy the complete game and they will then be transfered to the complete game. I knew it because of twitter but I was still sad :/
 
-Moha showed me little trailers. I forgot two but one stood out to me. Dorothée and Jonas were running on the beach and Jonas was SPLENDID in their outfit. They was wearing a floral dress and they was so slaying in it I decided their clothes would be "feminine-typed" in majority. Dorothée was stunning in her pants and shirt so I decided that their clothes would be "masculined-typed" in majority, also to make an opposition for Jonas.
+Moha showed me little trailers. I forgot two but one stood out to me. Dorothée and Jonas were running on the beach and Jonas was SPLENDID in their outfit. They was wearing a floral dress and they was so slaying in it I decided their clothes would be "feminine-typed" in majority. Dorothée was stunning in her pants and shirt so I decided that her clothes would be "masculined-typed" in majority, also to make an opposition for Jonas.
 
 > (I say masculine and feminine because capitalism and patriarchy imposed it on us and it's way much more clear to understand and yes I want these terms to disappear)
 
