@@ -49,7 +49,7 @@ When they arrived, The clothes shop was created, I'll see it later.
 
 I gave them princess quirks because they is the absolute Queen of the island to my eyes 
 
-![Obtained Quirks](../Ressources/Quiks_Obtained.jpg)
+![Jonas Queen](../Ressources/Jonas_Queen_Quirk.jpg)
 >> Jonas being the Queen
 
 Dorothée was sleeping on the fountain, talking to her made me enter her dreams. It was really weird, it was about her at the limit to the void, praying me to not push her. So, I pushed her and she fall from really high on the island. Fortunately, she was attached like a bungee jump and did not die. She woke up and asked what happenned lol.
