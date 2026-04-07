@@ -1,6 +1,6 @@
 # Dorothée
 
-> Insert Dorothée's card
+![Dorothée's Information Card](../../Ressources/Dorothée-Information_Card.jpg)
 >> Dorothée's informations, in french (don't worry I'll translate them in this doc)
 
 Dorothée is a French Senegalese woman. Her family is from Dakar, Senegal and immigrated because of french colons that came between 1895. Her grandparents went in Paris with their parents because of the first world war when France had to get military forces. They were the base of the Senegalese diaspora. Dorothée always lived in upper-class Bordeaux but also made a lot of trips to Dakar to meet her roots. She loves Theodora, the french superstar, Sabrina Carpenter and Josman, famous french rapper.
@@ -21,7 +21,7 @@ She can love anybody and can wear any suit or dress for events.
 
 Dorothée is reserved, the green category.
 
-> Insert Dorothée's personnality
+![Dorothée's Personality](../../Ressources/Dorothée-Personality.jpg)
 
 In one word, she is impassive.
 
@@ -40,13 +40,11 @@ In the "reserved" category, Dorothée is considered as patient. She put others f
 
 ## Relationships
 
-- Moha : Friends because of the "gode xxl dragon" and the plot armor of the demo.
+![Dorothée's Relations](../../Ressources/Dorothée-Relations.jpg)
 
-> Insert Moha's relation scheme
+- Moha : Friends because of the "gode xxl dragon" and the plot armor of the demo. She calls him Momo.
 
 - Jonas : Doesn't know them for the moment.
-
-> Insert Jonas' relation scheme
 
 ## Jobs spotted
 
